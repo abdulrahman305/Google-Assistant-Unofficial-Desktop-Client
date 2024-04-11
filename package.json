@@ -129,7 +129,7 @@
         "electron-is-accelerator": "^0.2.0",
         "electron-log": "^4.4.8",
         "electron-updater": "^5.3.0",
-        "express": "^4.18.2",
+        "express": "^4.19.2",
         "google-assistant": "github:Melvin-Abraham/google-assistant#g-assist",
         "google-it": "^1.6.4",
         "grpc": "1.24.11",
@@ -138,8 +138,8 @@
         "node-fetch": "^2.6.1"
     },
     "devDependencies": {
-        "electron": "10.3.2",
-        "electron-builder": "23.6.0",
+        "electron": "22.3.25",
+        "electron-builder": "24.13.3",
         "eslint": "^8.26.0",
         "eslint-config-airbnb": "^19.0.4",
         "eslint-config-airbnb-base": "^15.0.0",
