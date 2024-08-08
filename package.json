@@ -135,7 +135,7 @@
         "grpc": "1.24.11",
         "isomorphic-dompurify": "^0.23.0",
         "marked": "^4.1.1",
-        "node-fetch": "^2.6.1"
+        "node-fetch": "^2.7.0"
     },
     "devDependencies": {
         "electron": "10.3.2",
