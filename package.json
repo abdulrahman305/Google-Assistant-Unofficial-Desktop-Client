@@ -133,7 +133,7 @@
         "google-assistant": "0.7.0",
         "google-it": "^1.6.4",
         "grpc": "1.24.11",
-        "isomorphic-dompurify": "^0.23.0",
+        "isomorphic-dompurify": "^2.22.0",
         "marked": "^4.1.1",
         "node-fetch": "^2.7.0"
     },
